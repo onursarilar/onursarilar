@@ -5,7 +5,6 @@
 
 
 Technologies:
-[python]: https://www.python.org/
 
 
 ### Languages and Tools
@@ -14,11 +13,6 @@ Technologies:
 <br />
 <br />
 
-[<img align="left" alt="onursarilar | LinkedIn" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />] [linkedin]
-[linkedin]: https://www.likedin/in/onursarilar/
 
 
- <img align="left" width="600" height="200" src="https://www.python.org/python-.png">
- 
- 
-[<img alt="alt_text" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />](https://www.python.org/)
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />] [https://www.python.org/]
