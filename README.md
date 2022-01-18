@@ -26,8 +26,8 @@
 <br />
 
 
-[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onursarilar&show_icons=true&theme=merko)](https://github.com/onursarilar/github-readme-stats)
+[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onursarilar&show_icons=true&theme=prussian)](https://github.com/onursarilar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursarilar&show_icons=true&theme=merko)](https://github.com/onursarilar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursarilar&show_icons=true&theme=prussian)](https://github.com/onursarilar/github-readme-stats)
 
 ![Views Counter](https://komarev.com/ghpvc/?username=onursarilar&color=green)
