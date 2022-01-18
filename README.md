@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @onursarilar
+<p align="center">
+<h1>👋 Hi, I’m Onur</h1>
+</p>
+
 - 🌱 I am currently in my sophomore year pursuing a Bachelor's Degree in Computer Science.
 
 ### Technologies:
@@ -10,8 +13,6 @@
 
 <br />
 <br />
-
-
 
 ### Tools:
 
