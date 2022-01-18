@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onursarilar
-- 🌱 I am currently in my sophomore year pursuing a bachelor's degree in Computer Science.
+- 🌱 I am currently in my sophomore year pursuing a Bachelor's Degree in Computer Science.
 
 [![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onursarilar)](https://github.com/onursarilar/github-readme-stats)
 
