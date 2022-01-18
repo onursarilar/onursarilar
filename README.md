@@ -1,8 +1,4 @@
-
 <h1>👋 Hi, I’m Onur</h1>
-
-<p align="center">
-</p>
 
 - 🌱 I am currently in my sophomore year pursuing a Bachelor's Degree in Computer Science.
 
