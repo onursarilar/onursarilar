@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onursarilar&show_icons=true&theme=prussian)](https://github.com/onursarilar/github-readme-stats)
 
-![Views Counter](https://komarev.com/ghpvc/?username=onursarilar&color=green)
+![Views Counter](https://komarev.com/ghpvc/?username=onursarilar&color=blue)
