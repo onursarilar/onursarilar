@@ -14,5 +14,5 @@ Technologies:
 <br />
 <br />
 
-[<img align="left" alt="onursarilar | LinkedIn" width="22px" src="./linkedin.svg" />] [linkedin]
+[<img align="left" alt="onursarilar | LinkedIn" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />] [linkedin]
 [linkedin]: https://www.likedin/in/onursarilar/
