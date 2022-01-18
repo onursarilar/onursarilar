@@ -24,4 +24,5 @@
 <br />
 <br />
 
-[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onursarilar&show_icons=true&theme=radical)](https://github.com/onursarilar/github-readme-stats)
+
+[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onursarilar&show_icons=true&theme=merko)](https://github.com/onursarilar/github-readme-stats)
