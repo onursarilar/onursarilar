@@ -16,3 +16,9 @@ Technologies:
 
 [<img align="left" alt="onursarilar | LinkedIn" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/numpy.png" />] [linkedin]
 [linkedin]: https://www.likedin/in/onursarilar/
+
+
+ <img align="left" width="600" height="200" src="https://www.python.org/python-.png">
+ 
+ 
+[<img alt="alt_text" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />](https://www.python.org/)
