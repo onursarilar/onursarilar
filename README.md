@@ -12,7 +12,11 @@
 
 ### Tools:
 [<img align="left" alt="AWS" width="32px" src="https://camo.githubusercontent.com/d33f5ac46abb883ea90000e4c9e9507133239d81dc9e83c1b066234a6302371a/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344430424151476e6f5854385479387768672f636f6d70616e792d6c6f676f5f3230305f3230302f302f313632323536363335323636363f653d3231353930323434303026763d6265746126743d4e32354a496761614d6769507a366b2d2d64686d4d4c6931693463697155767a4e487a4f594172515a6c6f" />](https://aws.amazon.com/)
+
 [<img align="left" alt="MetaTrader5" width="32px" src="https://play-lh.googleusercontent.com/8lMo-DTtU9O10OXPr_gZYQOnYfFg6BGPgwRKnx88sczAOivcQ6M7ln_ukIp--OVtAB8=s180-rw" />](https://www.metatrader5.com/)
+
+[<img align="left" alt="ArchLinux" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" />](https://archlinux.org/)
+
 <br />
 <br />
 
