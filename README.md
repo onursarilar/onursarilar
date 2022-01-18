@@ -5,4 +5,4 @@
 
 
 Technologies:
-https://www.python.org/
+python
