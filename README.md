@@ -6,6 +6,9 @@ I received a Bachelor's degree in Business Administration 15 years ago. After se
 
 If you have any profitable trading ideas for MetaTrader 5, please do not hesitate to share them with me. I can program the robot to follow your trading and money management guidelines, and we can do a backtest for the past five years and evaluate the outcomes.
 
+### Connect with me:
+📫 onursarilar@gmail.com
+
 
 ### Technologies:
 [<img align="left" alt="Java" width="52px" src="https://www.aklimayatti.com/wp-content/uploads/java-logo-300x184.png" />](https://www.java.com/)
