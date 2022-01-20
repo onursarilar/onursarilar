@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Onur</h1>
 
-About 15 years ago, I got into the software world with C, then I learned Python, and for the past 5 years, I've been creating expert advisors (trading robots) in Mql5. These trading robots are running 7/24 in the cloud with AWS.
+About 15 years ago, I got into the software world with C, then I learned Python, and for the past 5 years, I've been creating expert advisors (trading robots) in Mql5. These trading robots are running 7/24 in the AWS cloud.
 
 I received a Bachelor's degree in Business Administration 15 years ago. After several years, I chose to combine my programming knowledge with theory and re-enroll in university in 2019. I am now pursuing a Bachelor's Degree in Computer Science in my sophomore year. Thanks to the courses I have taken at the University, I was able to add Java to my skill set.
 
