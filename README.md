@@ -1,15 +1,3 @@
-<h1>👋 Hi, I’m Onur</h1>
-
-About 15 years ago, I got into the software world with C, then I learned Python, and for the past 5 years, I've been creating expert advisors (trading robots) in Mql5. These trading robots are running 7/24 in the AWS cloud.
-
-I received a Bachelor's degree in Business Administration 15 years ago. After several years, I chose to combine my programming knowledge with theory and re-enroll in university in 2019. I am now pursuing a Bachelor's Degree in Computer Science in my sophomore year. Thanks to the courses I have taken at the University, I was able to add Java to my skill set.
-
-If you have any profitable trading ideas for MetaTrader 5, please do not hesitate to share them with me. I can program the robot which follows your trading and money management guidelines, and we can do a backtest for the past five years and evaluate the outcomes together.
-
-### Connect with me:
-📫 onursarilar@gmail.com
-
-
 ### Technologies:
 [<img align="left" alt="Java" width="52px" src="https://www.aklimayatti.com/wp-content/uploads/java-logo-300x184.png" />](https://www.java.com/)
 
